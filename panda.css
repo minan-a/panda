@@ -11,7 +11,7 @@ border-bottom: 1px solid gainsboro;
     text-align: center;
     background-color: beige;
     color: #94805a;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-radius: 5px;
     
 
@@ -20,15 +20,16 @@ border-bottom: 1px solid gainsboro;
 #buttons{
     border-bottom: 1px solid gainsboro;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     
 }
 
 .button{
     display: inline-block;
     font-size: 14px;
-    border-bottom: 1px dotted #000;
-    text-decoration: none;
+    text-decoration:underline;
+    text-decoration-style: dotted;
+    padding: 7px
 
 }
 
