@@ -30,6 +30,10 @@ border-bottom: 1px solid gainsboro;
 
 }
 
+h2{
+    text-align: center;
+}
+
 #panda .img{
     height: 300px;
     width: 300px;
