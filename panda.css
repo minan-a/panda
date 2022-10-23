@@ -1,11 +1,9 @@
-body{
-  
-}
-
 #panda{
 width: 600px;
 margin-left: auto;
 margin-right: auto;
+margin-bottom: 50px;
+border-bottom: 1px solid gainsboro;
 }
 
 .header{
@@ -38,7 +36,12 @@ margin-right: auto;
     background-image: url("red-panda.jpg");
     background-size: cover;
     border-radius: 50%;
+    border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
     
+}
+
+.end{
+    text-align: center;
 }
