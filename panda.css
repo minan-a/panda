@@ -17,6 +17,10 @@ border-bottom: 1px solid gainsboro;
 
 }
 
+h3 > span{
+    font-style: italic;
+}
+
 #buttons{
     border-bottom: 1px solid gainsboro;
     text-align: center;
